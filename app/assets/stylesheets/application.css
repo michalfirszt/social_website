@@ -17,3 +17,7 @@
 .navbar_link:hover {
   background-color: #EAEAEA;
 }
+
+.block {
+  padding-left: 20px;
+}
