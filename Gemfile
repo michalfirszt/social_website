@@ -36,7 +36,7 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
 gem 'devise', '~> 4.3'
 
-gem 'paperclip', '~> 5.1'
+gem 'paperclip', '~> 5.2', '>= 5.2.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
