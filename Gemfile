@@ -38,6 +38,8 @@ gem 'devise', '~> 4.3'
 
 gem 'paperclip', '~> 6.0'
 
+gem 'loofah', '~> 2.2', '>= 2.2.2'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
